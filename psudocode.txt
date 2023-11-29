@@ -1,0 +1,42 @@
+define get_input
+    ask for age (global)
+    ask for day_of_week (global)
+    print "Age: {age}
+           Day of the week: {day_of_week}
+           Is this correct?"
+    wait for input
+    if input is not "y" or "yes" or "1"
+        run get_input
+    end
+
+define calculate_price
+    set sum to 0
+    if age <= 12
+        set sum to 4
+    else if age <= 18
+        set sum to 5
+    else if age <= 60
+        set sum to 6
+    else
+        set sum to 3
+    add upcharge to sum
+    print "The price is ${sum:.2f}!"
+    end
+
+clear screen
+print "Welcome to the event!"
+run get_input
+
+if age <= 6
+    print "The price is free!"
+else
+    if day_of_week is 1 ("sunday")
+        set upcharge to 0
+    else if day_of_week is 2 - 5 ("monday" - "thursday")
+        set upcharge to 6
+    else
+        set upcharge to 8
+    run calculate_price
+print "Thank you for your patronage!"
+
+end
