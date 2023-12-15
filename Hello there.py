@@ -2,6 +2,7 @@
 # Brayden Towner
 # 11/28/2023
 
+# To clarify, these comments are for the teacher
 # We have learned While and Try/Except
 # I may know of constants, but I would only capitalize it to remind myself it shouldn't be changed, even if I didn't
 
