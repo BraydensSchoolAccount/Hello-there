@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="SWQLnrmFkrThS0bQeGFj">
-        <mxGraphModel dx="1810" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="517" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -51,10 +51,10 @@
                 <mxCell id="13" value="Display info they put in and ask if it's correct (Yes or No)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;rounded=0;size=10;" parent="1" vertex="1">
                     <mxGeometry x="450" y="290" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="False" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="14" target="12" edge="1">
+                <mxCell id="16" value="False" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" source="14" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="&lt;font color=&quot;#ffffff&quot;&gt;True&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" source="14" target="17" edge="1">
+                <mxCell id="18" value="&lt;font color=&quot;#ffffff&quot;&gt;True&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" source="14" target="17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="Check if input is &quot;Y&quot; or &quot;yes&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
@@ -66,14 +66,14 @@
                 <mxCell id="19" value="Are they &amp;lt;=6?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="70" y="520" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="21" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;strokeColor=default;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="150" y="559.5" as="sourcePoint"/>
                         <mxPoint x="210" y="559.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="22" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="110" y="600" as="sourcePoint"/>
                         <mxPoint x="110" y="640" as="targetPoint"/>
@@ -109,14 +109,14 @@
                 <mxCell id="28" value="Is it sunday?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="70" y="640" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="29" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="150" y="679.5" as="sourcePoint"/>
                         <mxPoint x="210" y="679.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="30" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="110" y="720" as="sourcePoint"/>
                         <mxPoint x="110" y="760" as="targetPoint"/>
@@ -129,14 +129,14 @@
                 <mxCell id="32" value="Is it Monday- Thursday" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="70" y="760" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="33" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="150" y="799.5" as="sourcePoint"/>
                         <mxPoint x="210" y="799.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="34" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="34" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="110" y="840" as="sourcePoint"/>
                         <mxPoint x="110" y="880" as="targetPoint"/>
@@ -183,14 +183,14 @@
                 <mxCell id="60" value="Are they &amp;lt;=12?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="850" y="290" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="61" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="930" y="329.5" as="sourcePoint"/>
                         <mxPoint x="990" y="329.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="62" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="62" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="890" y="370" as="sourcePoint"/>
                         <mxPoint x="890" y="410" as="targetPoint"/>
@@ -200,14 +200,14 @@
                 <mxCell id="63" value="Are they &amp;lt;=18?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="850" y="410" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="64" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="930" y="449.5" as="sourcePoint"/>
                         <mxPoint x="990" y="449.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="65" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="65" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="890" y="490" as="sourcePoint"/>
                         <mxPoint x="890" y="530" as="targetPoint"/>
@@ -217,14 +217,14 @@
                 <mxCell id="66" value="Are they &amp;lt;=60?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="850" y="530" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" edge="1">
+                <mxCell id="67" value="True" style="edgeStyle=none;html=1;fontColor=#FFFFFF;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="930" y="569.5" as="sourcePoint"/>
                         <mxPoint x="990" y="569.5" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="68" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                <mxCell id="68" value="&lt;font color=&quot;#ffffff&quot;&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="890" y="610" as="sourcePoint"/>
                         <mxPoint x="890" y="650" as="targetPoint"/>
@@ -263,6 +263,47 @@
                 </mxCell>
                 <mxCell id="83" value="Thank user" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontColor=#000000;fillColor=#fa6800;strokeColor=#C73500;size=20;" parent="1" vertex="1">
                     <mxGeometry x="50" y="1080" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="False" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="570" y="429.76" as="sourcePoint"/>
+                        <mxPoint x="630" y="429.76" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="86" value="&lt;font&gt;True&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="470" as="sourcePoint"/>
+                        <mxPoint x="510" y="510" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="&lt;font&gt;False&lt;/font&gt;" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="890" y="370" as="sourcePoint"/>
+                        <mxPoint x="890" y="410" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="88" value="True" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="930" y="329.5" as="sourcePoint"/>
+                        <mxPoint x="990" y="329.5" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="90" value="True" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="930" y="449.5" as="sourcePoint"/>
+                        <mxPoint x="990" y="449.5" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="True" style="edgeStyle=none;html=1;fontColor=none;labelBackgroundColor=none;noLabel=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="930" y="569.5" as="sourcePoint"/>
+                        <mxPoint x="990" y="569.5" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>

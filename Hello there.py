@@ -72,7 +72,7 @@ def calculate_price(age, upcharge):
     print(f"The price is ${sum:.2f}!")
 
 
-print("Welcome to the game dev burning!")
+print("Welcome to the Halloween bonfire!")
 # This does work
 age, day_of_week = get_input()
 
